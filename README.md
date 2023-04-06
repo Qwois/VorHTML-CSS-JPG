@@ -1,9 +1,9 @@
 # VorHTML-CSS-JPG
 The whole point of the program is for introductory purposes!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 <h1>How to use?<h1>
 
