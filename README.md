@@ -20,7 +20,9 @@ Step One (Console Version).
  
 Step One (TKinter Version).
  <h2>Also at startup, enter the path and address of the site.<h2>
- ![image](https://user-images.githubusercontent.com/69690887/230480716-b20f45e1-5a4f-419d-b686-461ea2d95028.png)
+ 
+  ![image](https://user-images.githubusercontent.com/69690887/230481722-6286a40f-f47e-40f3-b349-160568abd34d.png)
+
 
   
   Step Two - Result.
